@@ -11,11 +11,11 @@
     "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/rodrigolima46",
+  "homepage": "https://rodrigolima46.github.io/COMP2156/",
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/rodrigolima46/COMP2156.git"
+    "url": "git+https://github.com/rodrigolima46/COMP2156.git"
   },
   "keywords": [],
   "author": "",
